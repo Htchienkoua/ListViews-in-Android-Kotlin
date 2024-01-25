@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListViews</string>
+
+    <string-array name="countries">
+        <item>England</item>
+        <item>Ireland</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Poland</item>
+        <item>Lithuania</item>
+        <item>Italy</item>
+        <item>Spain</item>
+        <item>China</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>Turkey</item>
+        <item>Nigeria</item>
+        <item>Cameroon</item>
+        <item>India</item>
+    </string-array>
+</resources>
